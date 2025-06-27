@@ -95,6 +95,16 @@ npm run coverage
 
 ---
 
+## 🔄 CI/CD Pipeline
+
+GitHub Actions is used to automatically test the app using Keploy:
+
+📂 `.github/workflows/ci.yml`
+
+[🔗 GitHub Repository](https://github.com/kaushik-2318/keploy-session-3)
+
+---
+
 ## 📁 Project Structure
 
 ```
